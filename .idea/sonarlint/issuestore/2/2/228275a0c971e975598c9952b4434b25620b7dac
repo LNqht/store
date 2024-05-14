@@ -1,0 +1,17 @@
+
+E
+java:S3740o"/Provide the parametrized type for this generic.(Ýß“Þ
+E
+java:S3740o"/Provide the parametrized type for this generic.(Ýß“Þ
+^
+java:S1192-"HDefine a constant instead of duplicating this literal "user_id" 3 times.(‹ÌØñ
+a
+java:S1192."KDefine a constant instead of duplicating this literal "product_id" 4 times.(«ù–û
+S
+java:S1854;"8Remove this useless assignment to local variable "rows".(’Ÿµ·ûÿÿÿÿ
+D
+java:S1481;")Remove this unused "rows" local variable.(’Ÿµ·ûÿÿÿÿ
+M
+java:S1854T"7Remove this useless assignment to local variable "ids".(ý­¯ü
+T
+java:S1155W">Use isEmpty() to check whether the collection is empty or not.(´¤”Ó

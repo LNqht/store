@@ -1,0 +1,12 @@
+
+c
+java:S1192@"HDefine a constant instead of duplicating this literal "user_id" 4 times.(ùö ýÿÿÿÿ
+a
+java:S1192A"KDefine a constant instead of duplicating this literal "product_id" 4 times.(‘ž°
+T
+java:S11552">Use isEmpty() to check whether the collection is empty or not.(òå×Æ
+Y
+java:S1155m">Use isEmpty() to check whether the collection is empty or not.(”Ž÷¢ùÿÿÿÿ
+@	java:S106}"+Replace this use of System.out by a logger.( Œ¸þ
+U
+java:S1155š">Use isEmpty() to check whether the collection is empty or not.(òå×Æ

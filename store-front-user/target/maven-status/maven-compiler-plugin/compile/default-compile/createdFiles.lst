@@ -1,0 +1,13 @@
+com\qiuhongtao\user\service\AddressService.class
+com\qiuhongtao\user\service\impl\AddressServiceImpl.class
+com\qiuhongtao\user\constants\UserConstants.class
+com\qiuhongtao\user\service\UserService.class
+com\qiuhongtao\user\config\UserConfiguration.class
+com\qiuhongtao\user\FrontUserApplication.class
+com\qiuhongtao\user\mapper\UserMapper.class
+com\qiuhongtao\user\service\EmailService.class
+com\qiuhongtao\user\controller\FrontAddressController.class
+com\qiuhongtao\user\service\impl\UserServiceImpl.class
+com\qiuhongtao\user\controller\FrontUserController.class
+com\qiuhongtao\user\service\impl\EmailServiceImpl.class
+com\qiuhongtao\user\mapper\AddressMapper.class

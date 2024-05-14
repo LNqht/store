@@ -1,0 +1,6 @@
+com\qiuhongtao\collect\controller\CollectController.class
+com\qiuhongtao\collect\service\impl\CollectServiceImpl.class
+com\qiuhongtao\collect\pojo\Collect.class
+com\qiuhongtao\collect\CollectApplication.class
+com\qiuhongtao\collect\mapper\CollectMapper.class
+com\qiuhongtao\collect\service\CollectService.class

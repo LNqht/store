@@ -1,0 +1,7 @@
+com\qiuhongtao\search\config\SearchConfiguration.class
+com\qiuhongtao\search\SearchApplication.class
+com\qiuhongtao\search\service\SearchService.class
+com\qiuhongtao\search\service\impl\SearchServiceImpl.class
+com\qiuhongtao\search\listener\RabbitMQListener.class
+com\qiuhongtao\search\controller\SearchController.class
+com\qiuhongtao\search\listener\ApplicationRunListener.class

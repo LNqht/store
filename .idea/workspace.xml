@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mapper" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="b9f5c267a651f50393dd3d0bf28c8348e24ea30e" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="f1e7536708e77b8a04da2217f041c4b6547aeda9" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="103299c9-380d-4e2d-86cd-6a76e579a3e0" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.8.6" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-1" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectId" id="2GCbdWUDaiTBw5Xl5XrXQFf2Ejj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelOrder2&quot;: &quot;2&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth2&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/b2c-cloud-store&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;7614cdd1448011880b13bf30dbb385da&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.service" />
+      <recent name="com.atguigu.admin.service" />
+      <recent name="com.atguigu.order.service" />
+      <recent name="com.atguigu.cart.service" />
+      <recent name="com.atguigu.collect.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\BaiduNetdiskDownload\b2c-cloud-store\store-admin\src\main\resources\templates" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-admin\src\main\resources\templates\order" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-admin\src\main\resources\templates\product" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-admin\src\main\java\com\atguigu\admin\config" />
+      <recent name="C:\Users\Jackiechan\Desktop\b2c-cloud-store\store-common-feign\src\main\java\com\atguigu" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.clients" />
+      <recent name="com.atguigu.admin.controller" />
+      <recent name="com.atguigu.pojo" />
+      <recent name="com.atguigu.param" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="ProductApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CartApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="OrderApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CollectApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="batchservice" type="CompoundRunConfigurationType">
+      <toRun name="ProductApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CartApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="OrderApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CollectApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CarouselApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-front-carousel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiuhongtao.carousel.CarouselApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiuhongtao.carousel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="store-front-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiuhongtao.CartApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiuhongtao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-front-category" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiuhongtao.CategoryApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiuhongtao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="store-front-collect" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiuhongtao.collect.CollectApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiuhongtao.collect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-front-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiuhongtao.user.FrontUserApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiuhongtao.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiuhongtao.gateway.GatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiuhongtao.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="store-front-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiuhongtao.order.OrderApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiuhongtao.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="store-front-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiuhongtao.product.ProductApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiuhongtao.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticOssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="store-static-oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiuhongtao.oss.StaticOssApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiuhongtao.oss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CollectApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.ProductApplication" />
+      <item itemvalue="Spring Boot.CartApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.CategoryApplication" />
+      <item itemvalue="Spring Boot.CarouselApplication" />
+      <item itemvalue="Spring Boot.FrontUserApplication" />
+      <item itemvalue="Spring Boot.StaticOssApplication" />
+      <item itemvalue="复合.batchservice" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StaticOssApplication" />
+        <item itemvalue="Spring Boot.FrontUserApplication" />
+        <item itemvalue="Spring Boot.CarouselApplication" />
+        <item itemvalue="Spring Boot.CategoryApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.2584523" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3633edc8-5278-4f66-9a4f-09bbbc361e4d" name="Default Changelist" comment="" />
+      <created>1665895600457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665895600457</updated>
+      <workItem from="1665895602250" duration="17523000" />
+      <workItem from="1665968533039" duration="14673000" />
+      <workItem from="1665994689204" duration="305000" />
+      <workItem from="1665996320318" duration="17616000" />
+      <workItem from="1666057330629" duration="20774000" />
+      <workItem from="1666154643144" duration="1110000" />
+      <workItem from="1666156120074" duration="160000" />
+      <workItem from="1666156299970" duration="815000" />
+      <workItem from="1666157171198" duration="56869000" />
+      <workItem from="1666336650213" duration="7285000" />
+      <workItem from="1666399079957" duration="107385000" />
+      <workItem from="1666709300729" duration="7878000" />
+      <workItem from="1666790625103" duration="310000" />
+      <workItem from="1666791381657" duration="258000" />
+      <workItem from="1714139504022" duration="471000" />
+      <workItem from="1714141476810" duration="7145000" />
+      <workItem from="1714149460479" duration="666000" />
+      <workItem from="1714194464117" duration="10637000" />
+      <workItem from="1714217030503" duration="214000" />
+      <workItem from="1715444966477" duration="501000" />
+      <workItem from="1715445702103" duration="7110000" />
+      <workItem from="1715487758543" duration="563000" />
+      <workItem from="1715488360294" duration="8485000" />
+      <workItem from="1715663393321" duration="774000" />
+      <workItem from="1715675750537" duration="1045000" />
+    </task>
+    <task id="LOCAL-00001" summary="01_项目基本结构_用户和商品以及网关和feign模块">
+      <created>1665920662745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665920662745</updated>
+    </task>
+    <task id="LOCAL-00002" summary="02_项目基本结构_完成网关,通用模块以及用户模块和商品模块搭建">
+      <created>1665968613504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665968613504</updated>
+    </task>
+    <task id="LOCAL-00003" summary="03_功能实现_用户服务实现6个接口">
+      <created>1665991187927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665991187927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="04_功能实现_静态资源处理和oss服务">
+      <created>1665996604540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665996604540</updated>
+    </task>
+    <task id="LOCAL-00005" summary="05_功能实现_轮播图类别和首页部分接口">
+      <created>1666020055349</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666020055349</updated>
+    </task>
+    <task id="LOCAL-00006" summary="07_功能实现_实现商品功能和添加缓存功能">
+      <created>1666085652741</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666085652741</updated>
+    </task>
+    <task id="LOCAL-00007" summary="08_功能实现_收藏和搜索模块实现">
+      <created>1666253554353</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666253554353</updated>
+    </task>
+    <task id="LOCAL-00008" summary="09_功能实现_购物车,订单,地址以及后台管理用户模块">
+      <created>1666541797117</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666541797117</updated>
+    </task>
+    <task id="LOCAL-00009" summary="10_功能实现_后台管理类别模块">
+      <created>1666596579684</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666596579684</updated>
+    </task>
+    <task id="LOCAL-00010" summary="11_功能实现_后台管理商品和订单模块">
+      <created>1666685310412</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666685310412</updated>
+    </task>
+    <task id="LOCAL-00011" summary="v1.0">
+      <created>1715663247922</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715663247922</updated>
+    </task>
+    <task id="LOCAL-00012" summary="v1.0">
+      <created>1715663430011</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715663430012</updated>
+    </task>
+    <task id="LOCAL-00013" summary="v1.0">
+      <created>1715663496479</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715663496479</updated>
+    </task>
+    <task id="LOCAL-00014" summary="v1.0">
+      <created>1715663764587</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715663764587</updated>
+    </task>
+    <task id="LOCAL-00015" summary="v1.0">
+      <created>1715663807892</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715663807892</updated>
+    </task>
+    <task id="LOCAL-00016" summary="v1.0">
+      <created>1715664095729</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715664095729</updated>
+    </task>
+    <task id="LOCAL-00017" summary="v1.0">
+      <created>1715664470524</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715664470524</updated>
+    </task>
+    <task id="LOCAL-00018" summary="v1.0">
+      <created>1715664501217</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715664501217</updated>
+    </task>
+    <task id="LOCAL-00019" summary="v1.0">
+      <created>1715664684091</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1715664684091</updated>
+    </task>
+    <task id="LOCAL-00020" summary="v1.0">
+      <created>1715664701350</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715664701350</updated>
+    </task>
+    <task id="LOCAL-00021" summary="v1.0">
+      <created>1715664849447</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1715664849447</updated>
+    </task>
+    <task id="LOCAL-00022" summary="v1.0">
+      <created>1715665041824</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1715665041824</updated>
+    </task>
+    <task id="LOCAL-00023" summary="v1.0">
+      <created>1715665204748</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1715665204748</updated>
+    </task>
+    <task id="LOCAL-00024" summary="v1.0">
+      <created>1715666179989</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1715666179989</updated>
+    </task>
+    <task id="LOCAL-00025" summary="v1.0">
+      <created>1715675707505</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1715675707505</updated>
+    </task>
+    <task id="LOCAL-00026" summary="v1.0">
+      <created>1715675768816</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1715675768816</updated>
+    </task>
+    <task id="LOCAL-00027" summary="v1.0">
+      <created>1715675793320</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1715675793320</updated>
+    </task>
+    <task id="LOCAL-00028" summary="v1.0">
+      <created>1715675861848</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1715675861848</updated>
+    </task>
+    <task id="LOCAL-00029" summary="v1.0">
+      <created>1715675891476</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1715675891476</updated>
+    </task>
+    <task id="LOCAL-00030" summary="v1.0">
+      <created>1715676103343</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1715676103344</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1715676164243</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1715676164243</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:com.aliyun.oss:aliyun-sdk-oss" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+    <option featureType="dependencySupport" implementationName="java:org.thymeleaf:thymeleaf" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.xml.ws:jakarta.xml.ws-api" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01_项目基本结构_用户和商品以及网关和feign模块" />
+    <MESSAGE value="02_项目基本结构_完成网关,通用模块以及用户模块和商品模块搭建" />
+    <MESSAGE value="03_功能实现_用户服务实现6个接口" />
+    <MESSAGE value="04_功能实现_静态资源处理和oss服务" />
+    <MESSAGE value="05_功能实现_轮播图类别和首页部分接口" />
+    <MESSAGE value="07_功能实现_实现商品功能和添加缓存功能" />
+    <MESSAGE value="08_功能实现_收藏和搜索模块实现" />
+    <MESSAGE value="09_功能实现_购物车,订单,地址以及后台管理用户模块" />
+    <MESSAGE value="10_功能实现_后台管理类别模块" />
+    <MESSAGE value="11_功能实现_后台管理商品和订单模块" />
+    <MESSAGE value="v1.0" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/qiuhongtao/controller/AdminUserController.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/qiuhongtao/service/impl/AdminUserServiceImpl.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/qiuhongtao/service/impl/UserServiceImpl.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/qiuhongtao/controller/UserController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/qiuhongtao/controller/UserController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/qiuhongtao/controller/UserController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/store-admin/src/main/java/com/qiuhongtao/service/impl/UserServiceImpl.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="30" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

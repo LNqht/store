@@ -1,0 +1,18 @@
+
+{
+java:S1192,"eDefine a constant instead of duplicating this literal "        \"analyzer\": \"ik_smart\",
+" 3 times.(ùªÇÁ
+y
+java:S1192-"^Define a constant instead of duplicating this literal "        \"copy_to\": \"all\"
+" 3 times.(úÙÎÿÿÿÿÿ
+x
+java:S1192+"]Define a constant instead of duplicating this literal "        \"type\": \"text\",
+" 3 times.(Æó¾ñøÿÿÿÿ
+c
+java:S1192]"HDefine a constant instead of duplicating this literal "product" 4 times.(çõ™ôıÿÿÿÿ
+u
+java:S1192("_Define a constant instead of duplicating this literal "        \"type\": \"integer\"
+" 4 times.(Ä…±¯
+a
+java:S1192)"KDefine a constant instead of duplicating this literal "      },
+" 10 times.(¥ÁÊÁ

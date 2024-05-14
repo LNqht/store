@@ -1,0 +1,23 @@
+
+e
+java:S1192ñ"IDefine a constant instead of duplicating this literal "topic.ex" 3 times.(™øíÀøÿÿÿÿ
+a
+java:S1192P"LDefine a constant instead of duplicating this literal "category_id" 4 times.(ÇßÃL
+b
+java:S1192â"KDefine a constant instead of duplicating this literal "product_id" 3 times.(öüžß
+|
+java:S1488õ"`Immediately return this expression instead of assigning it to the temporary variable "products".(³¯ä°øÿÿÿÿ
+
+java:S1488›"cImmediately return this expression instead of assigning it to the temporary variable "productList".(þ†ç¾ÿÿÿÿÿ
+@	java:S106Y"+Replace this use of System.out by a logger.(‰ÆÇÜ
+Y
+java:S1155m">Use isEmpty() to check whether the collection is empty or not.(ÂÍÐþÿÿÿÿ
+@	java:S106{"+Replace this use of System.out by a logger.(‰ÆÇÜ
+T
+java:S1155¥">Use isEmpty() to check whether the collection is empty or not.(™¶É
+u
+java:S2142Í"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+P
+java:S1128"3Remove this unused import 'com.qiuhongtao.clients'.(‡ÄÿÏ8Å ÷«÷1
+N
+java:S1128"1Remove this unused import 'com.qiuhongtao.param'.(â€³Ÿ8Æ ÷«÷1

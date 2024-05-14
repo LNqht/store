@@ -1,0 +1,9 @@
+com\qiuhongtao\product\mapper\PictureMapper.class
+com\qiuhongtao\product\mapper\ProductMapper.class
+com\qiuhongtao\product\service\ProductService.class
+com\qiuhongtao\product\param\ProductParamInteger.class
+com\qiuhongtao\product\ProductApplication.class
+com\qiuhongtao\product\service\impl\ProductServiceImpl.class
+com\qiuhongtao\product\config\ProductConfiguration.class
+com\qiuhongtao\product\controller\ProductController.class
+com\qiuhongtao\product\listener\ProductListener.class

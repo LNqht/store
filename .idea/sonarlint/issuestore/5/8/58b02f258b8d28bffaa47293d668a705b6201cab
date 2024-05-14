@@ -1,0 +1,8 @@
+
+`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+e
+java:S1192,"HDefine a constant instead of duplicating this literal "product" 3 times.(Ûİ’ä8èÉªéö1
+a
+java:S2259E"KA "NullPointerException" could be thrown; "getTotalHits()" can return null.(˜–ß¾
+F	java:S106j"+Replace this use of System.out by a logger.(ÒÌŠ8 Ëªéö1
+L	java:S106k"+Replace this use of System.out by a logger.(Ïï°Ôÿÿÿÿÿ8 Ëªéö1

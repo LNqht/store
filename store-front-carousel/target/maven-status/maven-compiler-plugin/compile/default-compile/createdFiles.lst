@@ -1,0 +1,6 @@
+com\qiuhongtao\carousel\controller\CarouselController.class
+com\qiuhongtao\carousel\mapper\CarouselMapper.class
+com\qiuhongtao\carousel\CarouselApplication.class
+com\qiuhongtao\carousel\service\impl\CarouselServiceImpl.class
+com\qiuhongtao\carousel\config\CarouselConfiguration.class
+com\qiuhongtao\carousel\service\CarouselService.class

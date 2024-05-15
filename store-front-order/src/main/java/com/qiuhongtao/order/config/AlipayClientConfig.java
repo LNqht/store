@@ -2,18 +2,18 @@ package com.qiuhongtao.order.config;
 
 
 import com.alipay.api.*;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.core.env.Environment;
 
-import javax.annotation.Resource;
 
 @Configuration
 @PropertySource("classpath:alipay-sandbox.properties")
 public class AlipayClientConfig {
 
-    @Resource
+    @Autowired
     private Environment config;
 
     @Bean

@@ -35,17 +35,17 @@ public class RabbitMQListener {
     ))
     public void insert(Product product) throws IOException {
 
-//        IndexRequest indexRequest = new IndexRequest("product")
-//                .id(product.getProductId().toString());
-//
-//        ProductDoc productDoc = new ProductDoc(product);
-//
-//        ObjectMapper objectMapper = new ObjectMapper();
-//        String json  = objectMapper.writeValueAsString(productDoc);
-//
-//        indexRequest.source(json, XContentType.JSON);
-//
-//        client.index(indexRequest, RequestOptions.DEFAULT);
+        IndexRequest indexRequest = new IndexRequest("product")
+                .id(product.getProductId().toString());
+
+        ProductDoc productDoc = new ProductDoc(product);
+
+        ObjectMapper objectMapper = new ObjectMapper();
+        String json  = objectMapper.writeValueAsString(productDoc);
+
+        indexRequest.source(json, XContentType.JSON);
+
+        client.index(indexRequest, RequestOptions.DEFAULT);
 
     }
 
@@ -61,12 +61,12 @@ public class RabbitMQListener {
     ))
     public void remove(Integer productId) throws IOException {
 
-//        System.out.println("RabbitMQListener.remove");
-//        System.out.println("productId = " + productId);
-//        DeleteRequest request = new DeleteRequest("product")
-//                .id(productId.toString());
-//
-//        client.delete(request,RequestOptions.DEFAULT);
+        System.out.println("RabbitMQListener.remove");
+        System.out.println("productId = " + productId);
+        DeleteRequest request = new DeleteRequest("product")
+                .id(productId.toString());
+
+        client.delete(request,RequestOptions.DEFAULT);
     }
 
 }

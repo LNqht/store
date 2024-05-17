@@ -4,6 +4,7 @@ import com.qiuhongtao.clients.*;
 import com.qiuhongtao.param.*;
 import com.qiuhongtao.clients.*;
 import com.qiuhongtao.param.*;
+import com.qiuhongtao.pojo.Carousel;
 import com.qiuhongtao.pojo.Category;
 import com.qiuhongtao.pojo.Picture;
 import com.qiuhongtao.pojo.Product;
@@ -257,9 +258,19 @@ public class ProductServiceImpl extends ServiceImpl<ProductMapper,Product> imple
     @Override
     public Object search(ProductParamsSearch productParamsSearch) {
 
-        R r = searchClient.search(productParamsSearch);
+        //分页参数
+        IPage<Product> page = new Page<>(productParamsSearch.getCurrentPage()
+                ,productParamsSearch.getPageSize());
+        //查询参数获取
+        page = productMapper.selectPage(page, null);
+
+        List<Product> records = page.getRecords();
+        long total = page.getTotal();
+
+        R r = R.ok("商品数据成功!", records, total);
 
         log.info("ProductServiceImpl.search业务结束，结果:{}",r);
+
         return r;
     }
 

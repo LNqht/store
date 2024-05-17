@@ -258,19 +258,9 @@ public class ProductServiceImpl extends ServiceImpl<ProductMapper,Product> imple
     @Override
     public Object search(ProductParamsSearch productParamsSearch) {
 
-        //分页参数
-        IPage<Product> page = new Page<>(productParamsSearch.getCurrentPage()
-                ,productParamsSearch.getPageSize());
-        //查询参数获取
-        page = productMapper.selectPage(page, null);
-
-        List<Product> records = page.getRecords();
-        long total = page.getTotal();
-
-        R r = R.ok("商品数据成功!", records, total);
+        R r = searchClient.search(productParamsSearch);
 
         log.info("ProductServiceImpl.search业务结束，结果:{}",r);
-
         return r;
     }
 
@@ -338,14 +328,14 @@ public class ProductServiceImpl extends ServiceImpl<ProductMapper,Product> imple
      */
     @Override
     public Long categoryCount(Integer categoryId) {
-        
+
         QueryWrapper<Product> queryWrapper  =
                 new QueryWrapper<>();
-        
+
         queryWrapper.eq("category_id",categoryId);
 
         Long count = productMapper.selectCount(queryWrapper);
-        
+
         log.info("ProductServiceImpl.categoryCount业务结束，结果:{}",count);
         return count;
     }
